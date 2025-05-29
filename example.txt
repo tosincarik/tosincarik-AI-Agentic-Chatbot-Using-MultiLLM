@@ -1,1 +1,2 @@
 An example of created in main branch
+on main branch an extra commit for a conflict
